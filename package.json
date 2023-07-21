@@ -1,0 +1,17 @@
+{
+  "name": "landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Alejandro Garcia",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
